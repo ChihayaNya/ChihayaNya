@@ -10,20 +10,7 @@ I'm Chihaya 🌸, a passionate programmer with a love for Python. My goal is to 
 
 Here are some of the enchanting projects we'll be working on:
 
-1. [🚀 Magic Chatbot](./projects/magic-chatbot/README.md)
-   - Create an interactive chatbot that can answer questions and engage in fun conversations.
-
-2. [🌟 Kawaii Image Gallery](./projects/kawaii-image-gallery/README.md)
-   - Build a delightful image gallery app with adorable kawaii-themed images.
-
-3. [🧚‍♀️ Web Scraping Wizardry](./projects/web-scraping-wizardry/README.md)
-   - Learn the art of web scraping and gather information from your favorite websites.
-
-4. [🎉 Fun with Data Analysis](./projects/fun-data-analysis/README.md)
-   - Dive into data analysis with Python and discover intriguing insights.
-
-5. [🔮 Predict the Future](./projects/predict-the-future/README.md)
-   - Venture into machine learning and create a magical prediction model.
+1. [🎶 Discord Music Bot]
 
 ## ☕ Support
 
