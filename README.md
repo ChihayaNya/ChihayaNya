@@ -10,7 +10,7 @@ I'm Chihaya 🌸, a passionate programmer with a love for Python. My goal is to 
 
 Here are some of the enchanting projects we'll be working on:
 
-1. [🎶 Discord Music Bot]
+1. [🎶 Discord Music Bot] (https://github.com/ChihayaNya/DiscordBot)
 
 ## ☕ Support
 
