@@ -14,7 +14,7 @@ Here are some of the enchanting projects we'll be working on:
 
 ## ☕ Support
 
-If you find these projects enchanting and want to support my work, you can suppor me on Ko-Fi ☕ [here](https://ko-fi.com/chihayanya). Your support goes a long way in keeping this project running and allows me to create more delightful content.
+If you find these projects enchanting and want to support my work, you can suppor me on Ko-Fi ☕ [here](https://ko-fi.com/chihayanya) and [here](https://buymeacoffee.com/kuroyumech9). Your support goes a long way in keeping this project running and allows me to create more delightful content.
 
 ## 💌 Get in Touch
 
