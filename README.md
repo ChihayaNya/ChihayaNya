@@ -11,6 +11,7 @@ I'm Chihaya 🌸, a passionate programmer with a love for Python. My goal is to 
 Here are some of the enchanting projects we'll be working on:
 
 1. [🎶 Discord Music Bot] (https://github.com/ChihayaNya/DiscordBot)
+2. [💓 Valentin Proposal] (https://chihayanya.github.io/valentinproposal/)
 
 ## ☕ Support
 
@@ -21,6 +22,7 @@ If you find these projects enchanting and want to support my work, you can suppo
 - 📧 [Email](mailto:kuroyume-chan@outlook.com)
 - 🐦 [Twitter](https://twitter.com/KuroD)
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulina-araya/)
+- 🐍 [Fiverr](https://es.fiverr.com/s/xXKZ25D)
 
 Feel free to reach out if you have any questions or need assistance with Python programming.
  
